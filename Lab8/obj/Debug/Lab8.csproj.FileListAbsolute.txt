@@ -1,0 +1,7 @@
+C:\Users\benmyrat\Desktop\Кайс\Арх ЭВМ\Labs\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\benmyrat\Desktop\Кайс\Арх ЭВМ\Labs\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\benmyrat\Desktop\Кайс\Арх ЭВМ\Labs\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\benmyrat\Desktop\Кайс\Арх ЭВМ\Labs\Lab8\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\Users\benmyrat\Desktop\Кайс\Арх ЭВМ\Labs\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\benmyrat\Desktop\Кайс\Арх ЭВМ\Labs\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\benmyrat\Desktop\Кайс\Арх ЭВМ\Labs\Lab8\Lab8\obj\Debug\Lab8.pdb
